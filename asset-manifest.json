@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-fake-user-profiles/static/js/main.fe626315.chunk.js",
+    "main.js.map": "/react-fake-user-profiles/static/js/main.fe626315.chunk.js.map",
+    "runtime-main.js": "/react-fake-user-profiles/static/js/runtime-main.d10c2f07.js",
+    "runtime-main.js.map": "/react-fake-user-profiles/static/js/runtime-main.d10c2f07.js.map",
+    "static/js/2.b01e4ae1.chunk.js": "/react-fake-user-profiles/static/js/2.b01e4ae1.chunk.js",
+    "static/js/2.b01e4ae1.chunk.js.map": "/react-fake-user-profiles/static/js/2.b01e4ae1.chunk.js.map",
+    "index.html": "/react-fake-user-profiles/index.html",
+    "static/js/2.b01e4ae1.chunk.js.LICENSE.txt": "/react-fake-user-profiles/static/js/2.b01e4ae1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d10c2f07.js",
+    "static/js/2.b01e4ae1.chunk.js",
+    "static/js/main.fe626315.chunk.js"
+  ]
+}
